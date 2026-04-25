@@ -9,5 +9,10 @@
       "Bash(npx clear-npx-cache *)",
       "Bash(npm cache *)"
     ]
-  }
+  },
+  "enabledMcpjsonServers": [
+    "context7",
+    "playwright",
+    "sequential-thinking"
+  ]
 }
